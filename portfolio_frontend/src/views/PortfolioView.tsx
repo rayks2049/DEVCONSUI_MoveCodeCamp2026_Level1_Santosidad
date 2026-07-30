@@ -90,7 +90,7 @@ const NETWORKS = {
   },
   mainnet: {
     name: "Mainnet",
-    fullnode: "https://fullnode.mainnet.sui.io",
+    fullnode: "https://sui-rpc.publicnode.com",
     explorer: "https://suiscan.xyz/mainnet",
   }
 };
